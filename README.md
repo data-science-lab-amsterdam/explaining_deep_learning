@@ -1,4 +1,5 @@
 # Repository which is an extension on models we created for the big data expo 2018. 
+## Crucial to have a model which can be created through our other repo: <LINK>
 In this repo we create Lime images which aim to cexplain why a deep learning model comes to certrain prediction.
 
 In this repo there are 2 functions:
